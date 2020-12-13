@@ -1,0 +1,8 @@
+0. install libpcl-dev:  sudo apt install libpcl-dev
+1. write your cpp code: here you have load-save-STL.cpp
+2. write your CMakeList.txt: youhave it here!
+3. mkdir build: done
+4. cd build 
+5. cmake ..
+6. make 
+7. run the executable
